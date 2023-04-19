@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏻
 
 I'm Deyan and I'm passionate about iOS development and artificial intelligence
 
