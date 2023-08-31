@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-I'm Deyan and I'm passionate about iOS development and artificial intelligence
+I'm Deyan and I'm passionate about iOS development and artificial intelligence. For a comprehensive view of my projects, I invite you to explore my website at [deyanstanchev.com](http://deyanstanchev.com/)
 
 - 🔭 I’m currently working as a machine learning researcher at the University of Seville
 - 👨🏻‍🎓 I have a Master's Degree in Software Engineering: Cloud, Data, and Information Technology Management
