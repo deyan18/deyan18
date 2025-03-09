@@ -4,5 +4,5 @@ I'm Deyan and I'm passionate about artificial intelligence and iOS development. 
 
 - 🐒 I’m currently working as a software engineer at the The Agile Monkeys
 - 👨🏻‍🎓 I have a Master's Degree in Software Engineering: Cloud, Data, and Information Technology Management
-- 📱 I’m excited to publish an app on the AppStore soon
+- 📚 I'm always up for learning new things
 - 📫 How to reach me: deyanstanchev18@gmail.com
